@@ -1,0 +1,68 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Pelaje", 
+      "value": "marron"
+    },       
+    {
+      "trait_type": "Ojos", 
+      "value": "negros"
+    }, 
+    {
+      "trait_type": "Temperamento", 
+      "value": "Sangre Tibia"
+    }, 
+    {
+      "trait_type": "Procedencia", 
+      "value": "regalo"
+    }, 
+    {
+      "trait_type": "Estado", 
+      "value": "adoptado"
+    }, 
+    {
+      "trait_type": "Adoptante", 
+      "value": "Asociación anónima"
+    }, 
+    {
+      "trait_type": "Uso", 
+      "value": "Recreo"
+    }, 
+    {
+      "trait_type": "Peso (kg)", 
+      "value": 250
+    }, 
+    {
+      "trait_type": "Edad (años)", 
+      "value": 4
+    }, 
+    {
+      "trait_type": "Años en SUC", 
+      "value": 2
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Asistencias", 
+      "value": 10
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Salud", 
+      "value": 90
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Liderazgo", 
+      "value": 65
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Revisiones_medicas", 
+      "value": 3
+    }
+  ], 
+  "description": "Todo un potro con mucha personalidad", 
+  "external_url": "https://rinkeby.opensea.io/accounts/", 
+  "image": "https://i.pinimg.com/originals/fa/35/4c/fa354c7970d28516b163b8c666a7430d.jpg", 
+  "name": "Goizan"
+}

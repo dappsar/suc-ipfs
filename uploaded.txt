@@ -1,8 +1,0 @@
-token-01.json:
-https://ipfs.infura.io/ipfs/QmZuZG19YmeTiUtezng9C7SC3u297qUW7AheG8hWfjDwaJ
-https://ipfs.infura.io/ipfs/QmSME3zkPwdyxZ3v6bhjmcnkBaMPSfi731n5mtDDmmmZxA
-
-token-02.json:
-  https://ipfs.infura.io/ipfs/QmUkSMrRxVcqbSXeJRffRfVgBiAeNACEyn6g9ocgTQyJez
-  https://ipfs.infura.io/ipfs/QmdtAuZE1FqcK4npGnaMPvCsVQKt54FZ2dz2x4puJAfoDu
-  

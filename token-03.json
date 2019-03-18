@@ -1,0 +1,68 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Pelaje", 
+      "value": "Blanco"
+    },       
+    {
+      "trait_type": "Ojos", 
+      "value": "marrones"
+    }, 
+    {
+      "trait_type": "Temperamento", 
+      "value": "Sangre Tibia"
+    }, 
+    {
+      "trait_type": "Procedencia", 
+      "value": "recuperación"
+    }, 
+    {
+      "trait_type": "Estado", 
+      "value": "en SUC"
+    }, 
+    {
+      "trait_type": "Adoptante", 
+      "value": "ninguno"
+    }, 
+    {
+      "trait_type": "Uso", 
+      "value": "no aplica"
+    }, 
+    {
+      "trait_type": "Peso (kg)", 
+      "value": 220
+    }, 
+    {
+      "trait_type": "Edad (años)", 
+      "value": 6
+    }, 
+    {
+      "trait_type": "Años en SUC", 
+      "value": 5
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Asistencias", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Salud", 
+      "value": 100
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Liderazgo", 
+      "value": 90
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Revisiones_medicas", 
+      "value": 1
+    }
+  ], 
+  "description": "uno de los mejores caballos para trabajar en asistencia", 
+  "external_url": "https://rinkeby.opensea.io/accounts/", 
+  "image": "https://www.noticaballos.com/wp-content/uploads/2018/01/caballo-blanco-adulto-1024x682.jpg", 
+  "name": "Goland"
+}

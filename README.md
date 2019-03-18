@@ -1,4 +1,4 @@
-#SUC: Subida de archivos a IPFS
+# SUC: Subida de archivos a IPFS
 
 Script de nodeJs para subir archivos Json a un node IPFS.
 

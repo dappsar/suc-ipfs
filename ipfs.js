@@ -11,6 +11,7 @@ const ipfs = ipfsAPI('ipfs.infura.io', '5001', {
 
 //Reading file from computer
 let testFile = fs.readFileSync("token-03.json");
+
 //Creating buffer for ipfs function to add file to the system
 let testBuffer = new Buffer(testFile);
 
